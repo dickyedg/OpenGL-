@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1457879605 source:c:\users\mas agmi\documents\grafkom\cobacoba\main.c
+	<glut.h>
+	<stdio.h>
+
+1460790768 source:c:\users\mas agmi\documents\grafkom\cobacoba\uts.cpp
+	<stdlib.h>
+	<stdbool.h>
+	<glut.h>
+	"cat.h"
+	"kalajengking.h"
+
+1465450403 c:\users\mas agmi\documents\grafkom\cobacoba\cat.h
+	<stdbool.h>
+	"treestruct.h"
+	"texture.h"
+	"lighting.h"
+	"shadow.h"
+
+1465397669 c:\users\mas agmi\documents\grafkom\cobacoba\treestruct.h
+	<stdlib.h>
+	<stdbool.h>
+	<GL/glut.h>
+
+1465450476 c:\users\mas agmi\documents\grafkom\cobacoba\kalajengking.h
+	<stdbool.h>
+	"treestruct.h"
+	"texture.h"
+	"lighting.h"
+	"shadow.h"
+
+1465450161 source:c:\users\mas agmi\documents\grafkom\cobacoba\source.cpp
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<GL/glut.h>
+	"texture.h"
+	"cat.h"
+	"troli.h"
+	"kalajengking.h"
+	"semut.h"
+	"texture.h"
+	"lighting.h"
+	"Bird.h"
+
+1465438038 c:\users\mas agmi\documents\grafkom\cobacoba\texture.h
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<windows.h>
+	<GL/glut.h>
+
+1465397656 c:\users\mas agmi\documents\grafkom\cobacoba\shadow.h
+	<math.h>
+	<GL/glut.h>
+
+1465450553 c:\users\mas agmi\documents\grafkom\cobacoba\troli.h
+	<stdbool.h>
+	"treestruct.h"
+	"texture.h"
+	"lighting.h"
+	"shadow.h"
+
+1465450564 c:\users\mas agmi\documents\grafkom\cobacoba\semut.h
+	<stdbool.h>
+	"treestruct.h"
+	"texture.h"
+	"lighting.h"
+	"shadow.h"
+
+1465450282 c:\users\mas agmi\documents\grafkom\cobacoba\lighting.h
+	<stdlib.h>
+	<GL/glut.h>
+	"treestruct.h"
+
+1465450442 c:\users\mas agmi\documents\grafkom\cobacoba\bird.h
+	<stdbool.h>
+	"treestruct.h"
+	"texture.h"
+	"shadow.h"
+
